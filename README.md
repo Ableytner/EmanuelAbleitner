@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmanuelAbleitner.
-- 👀 I’m interested in C#, Unity. 
-- 🌱 I’m currently learning programming with C#, Java. 
+- 👀 I’m interested in C#, Unity, Python. 
+- 🌱 I’m currently learning programming with Python. 
 - 💞️ I’m currently not looking for collaborations. 
 - 📫 How to reach me: emanuel.ableitner@gmx.at
 
