@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EmanuelAbleitner.
-- 👀 I’m interested in C#, Unity, Python. 
-- 🌱 I’m currently learning programming with Python. 
+- 👋 Hi, I’m @EmanuelAbleitner. 
+- 👀 I’m interested in Python, Unity, C#. 
+- 🌱 I’m currently working on [ExpandableCLI](https://github.com/EmanuelAbleitner/ExpandableCLI). 
 - 💞️ I’m currently not looking for collaborations. 
 - 📫 How to reach me: emanuel.ableitner@gmx.at
 
